@@ -1,0 +1,25 @@
+{
+    "employees":[
+    {
+        "id": 1,
+        "first_name": "Akshata",
+        "last_nsme": "Jadhav",
+        "email":"akshata@gmail.com"
+
+    },
+    {
+        "id": 2,
+        "first_name": "Jon",
+        "last_nsme": "Hook",
+        "email":"jon@gmail.com"
+
+    },
+    {
+        "id": 3,
+        "first_name": "Joe",
+        "last_nsme": "sinha",
+        "email":"joe@gmail.com"
+
+    }
+]
+}
